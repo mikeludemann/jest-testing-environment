@@ -1,2 +1,3 @@
-# jest-testing-environment
-A jest testing environment
+# Jest Testing Environment
+
+A simple Jest - Testing environment with React
